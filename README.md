@@ -1,1 +1,1 @@
-This repo demonstrate how senior financial analyst think and act using data science methods in finance
+This repo demonstrates how senior financial analyst think and act using data science methods and finance for strategic decisions.
